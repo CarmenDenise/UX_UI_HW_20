@@ -1,6 +1,34 @@
 /* ______________________________Navigation*/
 
 .justify-content-end {
-    right-aligned;
+    padding-bottom: 100px;
 
 }
+
+/*________________________________Jumbotron/Hero*/
+
+.jumbotron-fluid{
+    padding-bottom: 200px;
+    display:flex;
+    justify-content:center;
+}
+/*________________________________Cards/Research*/
+
+/*________________________________Jumbotron/Problem statement*/
+
+.problem{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+    background-color: #f2f2f2;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/*Img Overlay . (feature prior, user scene, jrny map, user insight, value prop*/
+
+/*________________________________Cards/Iterations*/
+
+/*________________________________Prototype Link*/
+
+/*________________________________Final Thoughts*/
