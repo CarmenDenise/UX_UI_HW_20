@@ -1,18 +1,26 @@
 /* ______________________________Navigation*/
 
 .justify-content-end {
-    padding-bottom: 100px;
+    padding-bottom: 50px;
+    color: #000;
 
 }
 
 /*________________________________Jumbotron/Hero*/
 
 .jumbotron-fluid{
-    padding-bottom: 200px;
     display:flex;
     justify-content:center;
 }
 /*________________________________Cards/Research*/
+
+.col {
+    padding-bottom: 100px;
+}
+
+.container {
+    margin-bottom: 100px;
+}
 
 /*________________________________Jumbotron/Problem statement*/
 
@@ -22,13 +30,33 @@
     text-align:center;
     background-color: #f2f2f2;
     padding-top: 100px;
-    padding-bottom: 100px;
+    margin-bottom: 100px;
 }
 
 /*Img Overlay . (feature prior, user scene, jrny map, user insight, value prop*/
 
 /*________________________________Cards/Iterations*/
 
+.bg-dark {
+    background-color: #f2f2f2;
+}
+
+.card1 {
+    padding-bottom: 150x;
+    text-align: center;
+    width: 800px;
+    justify-content:center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-color: #f2f2f2;
+}
+
 /*________________________________Prototype Link*/
+
+.final {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
 
 /*________________________________Final Thoughts*/
